@@ -1,3 +1,11 @@
+<a name="v1.0.1"></a>
+### v1.0.1 (2014-08-27)
+
+
+#### Bug Fixes
+
+* **commit-pattern:scope:** allow colons(:) in scope section ([eb9b1295](https://github.com/kingcody/grunt-conventional-changelog/commit/eb9b12951fd0f823e42d8273f7fe1644d045664a))
+
 <a name="v1.0.0"></a>
 ## v1.0.0 (2013-07-17)
 
