@@ -1,6 +1,6 @@
 {
   "name": "grunt-conventional-changelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a markdown changelog from git commit data",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/btford/grunt-conventional-changelog.git"
+    "url": "https://github.com/kingcody/grunt-conventional-changelog.git"
   },
   "keywords": [
     "grunt",
@@ -16,7 +16,8 @@
   ],
   "contributors": [
     { "name": "Brian Ford" },
-    { "name": "Vojta Jína" }
+    { "name": "Vojta Jína" },
+    { "name": "Cody Mize" }
   ],
   "license": "BSD",
   "dependencies": {
