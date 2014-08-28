@@ -1,9 +1,9 @@
-# grunt-conventional-changelog  [![Build Status](https://secure.travis-ci.org/btford/grunt-conventional-changelog.png?branch=master)](http://travis-ci.org/btford/grunt-conventional-changelog)
+# grunt-conventional-changelog  [![Build Status](https://secure.travis-ci.org/kingcody/grunt-conventional-changelog.svg?branch=v1)](http://travis-ci.org/kingcody/grunt-conventional-changelog)
 
 Generate a changelog from git metadata, using [these](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/) conventions.
 
 ## Example output
-- https://github.com/btford/grunt-conventional-changelog/blob/master/CHANGELOG.md
+- https://github.com/kingcody/grunt-conventional-changelog/blob/v1/CHANGELOG.md
 - https://github.com/karma-runner/karma/blob/master/CHANGELOG.md
 
 ## Getting Started
@@ -51,7 +51,7 @@ Allows a full repository url, or simply `username/repository`.
 
 Example configurations:
 ```js
-github: 'btford/grunt-conventional-changelog'
+github: 'kingcody/grunt-conventional-changelog'
 ```
 ```js
 github: 'http://github.com/angular/angular.js'
